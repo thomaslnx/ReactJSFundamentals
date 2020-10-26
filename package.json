@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0",
     "typescript": "~3.7.2",
-    "websocket-extension": "^0.1.4",
+    "websocket-extensions": "^0.1.4",
     "acorn": "^8.0.4",
     "serialize-javascript": "^5.0.1",
     "elliptic": "^6.5.3",
